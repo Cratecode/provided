@@ -1,6 +1,6 @@
 {
   "name": "provided",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of packages provided by Cratecode which are available inside of its containers.",
   "repository": "https://github.com/Cratecode/provided.git",
   "author": "Jonah Uellenberg",
